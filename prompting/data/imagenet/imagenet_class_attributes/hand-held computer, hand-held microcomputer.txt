@@ -1,0 +1,15 @@
+- Small size and compact design
+- Display screen
+- Keyboard or touch screen input
+- Operating system and software interface
+- Connectivity options (Wi-Fi, Bluetooth, USB)
+- Battery or power source
+- Memory and storage capacity
+- Processing power (CPU)
+- Built-in camera or camera module
+- Audio capabilities (speakers, microphone)
+- Sensors (accelerometer, gyroscope, GPS)
+- Physical buttons or controls
+- Ports and slots (for charging, headphones, memory cards)
+- Stylus or pen input (if applicable)
+- Protective casing or cover

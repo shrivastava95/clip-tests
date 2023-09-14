@@ -1,0 +1,19 @@
+- Head shape and size
+- Eye shape and position
+- Scale patterns and coloration
+- Body shape and length
+- Tail shape and length
+- Presence or absence of a rattle (in rattlesnakes)
+- Scale texture (smooth or keeled)
+- Presence or absence of a hood (in cobras)
+- Snout shape and size
+- Scale arrangement on the head (such as rostral scale)
+- Scale arrangement on the body (such as dorsal scales)
+- Presence or absence of heat-sensing pits (in pit vipers)
+- Scale patterns on the belly
+- Scale patterns on the sides
+- Scale patterns on the back
+- Scale patterns on the tail
+- Overall body thickness
+- Habitat preferences (desert, grassland, etc.)
+- Geographic distribution

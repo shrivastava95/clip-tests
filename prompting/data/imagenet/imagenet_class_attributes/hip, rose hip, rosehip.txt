@@ -1,0 +1,10 @@
+- Color of the fruit/flower
+- Shape of the fruit/flower
+- Presence of thorns
+- Size of the fruit/flower
+- Texture of the fruit/flower
+- Leaf shape and arrangement
+- Stem characteristics
+- Presence of petals or sepals
+- Growth habit (shrub or vine)
+- Surrounding environment or habitat

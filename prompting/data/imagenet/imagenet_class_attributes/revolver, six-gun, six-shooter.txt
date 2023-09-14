@@ -1,0 +1,10 @@
+- Cylinder with multiple chambers
+- Barrel
+- Hammer
+- Trigger
+- Grip
+- Cylinder release latch
+- Ejector rod
+- Front sight
+- Rear sight
+- Cylinder rotation mechanism

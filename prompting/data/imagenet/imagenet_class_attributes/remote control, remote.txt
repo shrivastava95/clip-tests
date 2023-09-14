@@ -1,0 +1,14 @@
+- Buttons or keys
+- Infrared (IR) transmitter
+- Battery compartment
+- LED indicator
+- Mode selection buttons
+- Channel selection buttons
+- Volume control buttons
+- Power button
+- Numeric keypad
+- Navigation buttons (up, down, left, right)
+- Function buttons (play, pause, stop, rewind, fast forward)
+- Menu buttons
+- Programmable buttons
+- Remote control brand/logo

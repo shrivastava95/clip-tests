@@ -1,0 +1,20 @@
+- URL or web address
+- Navigation menu or menu bar
+- Logo or branding
+- Header or banner
+- Content area or main body
+- Sidebar or additional information section
+- Footer or bottom section
+- Search bar or search functionality
+- Links or hyperlinks
+- Images or multimedia content
+- Text or written content
+- Contact information or contact form
+- Social media icons or links
+- Login or registration options
+- Shopping cart or e-commerce functionality
+- Categories or sections
+- Comments or user-generated content
+- Date or time stamps
+- Privacy policy or terms of service links
+- Mobile responsiveness or adaptive design features

@@ -1,0 +1,11 @@
+- Circular shape
+- Metallic or plastic casing
+- Label or branding on the surface
+- Multiple screws or fasteners
+- Power and data connectors
+- Spinning platters or disks inside
+- Read/write head mechanism
+- Printed circuit board (PCB)
+- Capacity or storage information label
+- Serial number or model information
+- Size and thickness of the disk

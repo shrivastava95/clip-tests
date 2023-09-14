@@ -1,0 +1,11 @@
+- Canopy shape
+- Handle type
+- Ribs structure
+- Open or closed state
+- Material (e.g., fabric, plastic)
+- Size and dimensions
+- Color and pattern
+- Presence of a strap or carrying case
+- Mechanism for opening and closing
+- Presence of additional features (e.g., windproof, UV protection)
+- Brand or logo markings

@@ -1,0 +1,13 @@
+- List of food items or dishes
+- Prices or currency symbols
+- Categories or sections (appetizers, main courses, desserts)
+- Fonts or typography used
+- Colors or color schemes
+- Logo or branding elements
+- Borders or frames around the menu
+- Illustrations or graphics related to food
+- Language or text used (English, French, etc.)
+- Layout or organization of the menu (columns, grids, etc.)
+- Background or backdrop of the menu
+- Size or dimensions of the menu
+- Any additional design elements (icons, symbols, etc.)

@@ -1,0 +1,91 @@
+- Paper tray
+- Control panel
+- Document feeder
+- Glass scanning bed
+- Output tray
+- Toner cartridge
+- Power button
+- Start/stop button
+- LCD display
+- USB ports
+- Ethernet port
+- Wireless connectivity
+- Duplex printing capability
+- Automatic document feeder (ADF)
+- Collating feature
+- Stapling feature
+- Zooming options
+- Multiple paper size compatibility
+- Energy-saving mode
+- Noise reduction technology
+- Scanning resolution options
+- Printing speed
+- Color printing capability
+- Multiple paper trays
+- Memory card slots
+- Touchscreen interface
+- Mobile printing support
+- Faxing capability
+- Network printing capability
+- Automatic paper detection
+- Automatic paper size adjustment
+- Automatic double-sided printing
+- Job queue management
+- Error code display
+- Maintenance alerts
+- Remote printing options
+- User authentication features
+- Secure printing options
+- Watermark printing
+- Booklet printing feature
+- Collating and sorting options
+- Multiple copy options
+- Reduction and enlargement options
+- Image editing features
+- Multiple language support
+- Auto power-off feature
+- Job accounting features
+- Print tracking and reporting options
+- Cloud printing support
+- USB printing support
+- OCR (Optical Character Recognition) capability
+- Document management features
+- Scan to email functionality
+- Scan to network folder capability
+- Scan to USB functionality
+- Scan to cloud storage options
+- Scan to PDF capability
+- Scan to editable text (OCR)
+- Scan to searchable PDF
+- Scan to mobile device options
+- Scan to email address book
+- Scan to multiple destinations
+- Scan to FTP server capability
+- Scan to SharePoint functionality
+- Scan to USB drive options
+- Scan to network folder shortcuts
+- Scan to PC or Mac options
+- Scan to email with LDAP support
+- Scan to USB with password protection
+- Scan to cloud storage with encryption
+- Scan to searchable PDF with compression
+- Scan to mobile device with app integration
+- Scan to email address book with synchronization
+- Scan to multiple destinations with customizable profiles
+- Scan to FTP server with secure connection
+- Scan to SharePoint with metadata support
+- Scan to USB drive with automatic file naming
+- Scan to network folder shortcuts with customizable settings
+- Scan to PC or Mac with automatic file organization
+- Scan to email with LDAP support for address book integration
+- Scan to USB with password protection and encryption
+- Scan to cloud storage with encryption and access control
+- Scan to searchable PDF with compression and text recognition
+- Scan to mobile device with app integration and cloud synchronization
+- Scan to email address book with synchronization and group management
+- Scan to multiple destinations with customizable profiles and workflow automation
+- Scan to FTP server with secure connection and file transfer protocols
+- Scan to SharePoint with metadata support and document library integration
+- Scan to USB drive with automatic file naming and folder organization
+- Scan to network folder shortcuts with customizable settings and file permissions
+- Scan to PC or Mac with automatic file organization and searchable file indexing

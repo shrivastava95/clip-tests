@@ -1,0 +1,11 @@
+- Numeric display
+- Colon separator between hours and minutes
+- Digital format (not analog)
+- LED or LCD screen
+- Time indicators (numbers or dots)
+- Power source (battery or electric)
+- Buttons or controls for setting time
+- Alarm function
+- AM/PM indicator
+- Backlight or illumination feature
+- Size and shape of the clock

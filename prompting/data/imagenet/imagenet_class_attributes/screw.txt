@@ -1,0 +1,9 @@
+- Threaded shaft
+- Head shape (e.g., flat, round, hexagonal)
+- Screwdriver slot or recess type (e.g., Phillips, slotted, Torx)
+- Length and diameter of the screw
+- Material composition (e.g., metal, plastic)
+- Thread pitch and direction (e.g., coarse, fine, left-handed)
+- Presence of threads along the entire shaft or only a portion
+- Type of screw (e.g., wood screw, machine screw, self-tapping screw)
+- Presence of additional features (e.g., washer, nut, anchor)

@@ -1,0 +1,23 @@
+- Keyboard
+- Screen
+- Trackpad
+- Hinges
+- USB ports
+- Power button
+- Webcam
+- Speakers
+- Battery
+- Ventilation grilles
+- Logo or branding
+- CD/DVD drive (if present)
+- HDMI or other video output ports
+- Ethernet port (if present)
+- Headphone jack
+- Microphone jack
+- SD card slot (if present)
+- Touchscreen (if present)
+- Function keys (F1, F2, etc.)
+- Numeric keypad (if present)
+- Indicator lights (e.g., power, Wi-Fi)
+- Operating system logo (e.g., Windows, macOS)
+- Size and shape of the laptop

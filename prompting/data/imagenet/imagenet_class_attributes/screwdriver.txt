@@ -1,0 +1,13 @@
+- Handle
+- Shank
+- Tip
+- Flathead or Phillips head
+- Length
+- Width
+- Material (metal, plastic, etc.)
+- Grip texture
+- Brand or logo markings
+- Screwdriver type (slotted, Phillips, Torx, etc.)
+- Magnetic tip
+- Ratcheting mechanism
+- Additional features (such as a built-in level or flashlight)

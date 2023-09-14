@@ -1,0 +1,10 @@
+- Number of turns or loops
+- Shape of the turns or loops (tight or loose)
+- Direction of the turns or loops (clockwise or counterclockwise)
+- Overall structure (compact or elongated)
+- Presence of a central axis or core
+- Symmetry or asymmetry of the structure
+- Thickness or width of the coil/spiral/volute/whorl/helix
+- Presence of any additional elements or appendages
+- Material composition (metal, wood, etc.)
+- Surface texture or pattern

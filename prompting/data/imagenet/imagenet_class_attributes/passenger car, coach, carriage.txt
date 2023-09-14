@@ -1,0 +1,25 @@
+- Four wheels
+- Enclosed body
+- Windows
+- Doors
+- Headlights
+- Tail lights
+- License plate
+- Rearview mirrors
+- Windshield
+- Roof
+- Bumper
+- Grille
+- Trunk
+- Seats
+- Steering wheel
+- Dashboard
+- Gear shift
+- Pedals
+- Seatbelts
+- Airbags
+- Audio system
+- Climate control system
+- Cup holders
+- Sunroof
+- Antenna

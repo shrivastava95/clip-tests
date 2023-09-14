@@ -1,0 +1,11 @@
+- Cylindrical shape
+- Handle
+- Rim
+- Base
+- Material (e.g. glass, ceramic, plastic)
+- Size (e.g. small, medium, large)
+- Color
+- Design or pattern
+- Transparency or opacity
+- Presence of liquid inside
+- Reflections or highlights

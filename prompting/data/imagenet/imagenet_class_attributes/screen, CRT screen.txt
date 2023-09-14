@@ -1,0 +1,13 @@
+- Rectangular shape
+- Glass surface
+- Visible scan lines
+- Bulky and heavy appearance
+- Curved screen surface
+- Visible phosphor dots or stripes
+- Visible electron gun assembly
+- Visible shadow mask or aperture grille
+- Visible cathode ray tube (CRT) enclosure or casing
+- Analog controls or buttons on the front or side
+- Visible power button or indicator light
+- Thick bezels or frame around the screen
+- Visible power cord or cable connected to the screen

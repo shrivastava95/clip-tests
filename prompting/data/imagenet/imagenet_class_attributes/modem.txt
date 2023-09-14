@@ -1,0 +1,9 @@
+- Rectangular shape
+- LED lights
+- Ethernet ports
+- Power button
+- Antenna
+- Coaxial cable connector
+- USB ports
+- Reset button
+- Model/brand logo

@@ -1,0 +1,20 @@
+- Barrel
+- Stock
+- Trigger
+- Magazine
+- Scope
+- Bolt
+- Sights
+- Muzzle
+- Handguard
+- Grip
+- Forend
+- Recoil pad
+- Safety switch
+- Picatinny rail
+- Sling swivels
+- Ejection port
+- Gas system
+- Charging handle
+- Flash suppressor
+- Bayonet lug

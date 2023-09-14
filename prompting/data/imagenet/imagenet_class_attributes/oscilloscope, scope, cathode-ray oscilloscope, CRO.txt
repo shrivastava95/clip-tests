@@ -1,0 +1,24 @@
+- Screen or display
+- Probe or input connectors
+- Timebase control
+- Vertical and horizontal controls
+- Trigger controls
+- Calibration or reference marks
+- Power button or switch
+- Channel selection or input buttons
+- Ground or earth terminal
+- Voltage or amplitude controls
+- Sweep or scan controls
+- Trigger level adjustment
+- Probe compensation adjustment
+- Input impedance switch or control
+- X-Y mode or display option
+- Intensity or brightness control
+- Probe attenuation switch or control
+- Trigger source selection
+- Auto or manual trigger mode
+- Cursor or measurement options
+- Memory or storage options
+- External trigger input
+- Trigger holdoff control
+- Probe power or calibration output

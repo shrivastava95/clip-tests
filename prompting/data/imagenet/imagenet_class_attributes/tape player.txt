@@ -1,0 +1,11 @@
+- A rectangular shape
+- A cassette compartment
+- Playback controls (play, stop, rewind, fast forward)
+- A tape counter
+- A headphone jack
+- Volume control
+- A speaker
+- A power switch
+- Recording capabilities (if applicable)
+- Input/output jacks (if applicable)
+- Brand or model name/logo

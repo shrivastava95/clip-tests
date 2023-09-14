@@ -1,0 +1,10 @@
+- Cap shape
+- Cap color
+- Stem shape
+- Stem color
+- Gills or pores
+- Spore color
+- Ring or veil presence
+- Odor
+- Habitat
+- Size

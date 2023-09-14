@@ -1,0 +1,11 @@
+- Loop shape
+- Number of loops
+- Crossings
+- Over/under pattern
+- Tightness of the knot
+- Type of material used
+- Symmetry/asymmetry
+- Presence of loose ends
+- Complexity of the knot
+- Size of the knot
+- Texture of the knot

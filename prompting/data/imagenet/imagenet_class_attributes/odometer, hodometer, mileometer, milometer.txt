@@ -1,0 +1,13 @@
+- Numeric display showing distance traveled
+- Units of measurement (miles, kilometers, etc.)
+- Reset button or knob
+- Trip meter or multiple displays
+- Odometer reading in the photo
+- Placement within a vehicle dashboard or instrument cluster
+- Surrounding indicators or labels (e.g., speedometer, fuel gauge)
+- Digital or analog display format
+- Presence of a mechanical mechanism or gears
+- Odometer needle or pointer
+- Odometer font or style
+- Odometer backlight or illumination
+- Odometer brand or manufacturer logo

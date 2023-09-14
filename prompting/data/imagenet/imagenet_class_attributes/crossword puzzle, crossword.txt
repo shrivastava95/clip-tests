@@ -1,0 +1,13 @@
+- Grid pattern with intersecting horizontal and vertical lines
+- Black squares indicating blocked-off spaces
+- Clues listed alongside or below the grid
+- Numbered squares indicating the start of a word
+- White squares for filling in letters
+- Empty squares for incomplete words
+- Various lengths of words indicated by the number of squares
+- Alphabet letters in the white squares
+- Possible shaded or highlighted squares for themed puzzles
+- Theme-related clues or hints
+- Difficulty level indicators
+- Publisher or creator logo or name
+- Date or edition information

@@ -1,0 +1,23 @@
+- Rows of keys
+- Alphanumeric keys
+- Function keys
+- Arrow keys
+- Modifier keys (Ctrl, Alt, Shift)
+- Numeric keypad
+- Special keys (Enter, Backspace, Delete)
+- Spacebar
+- Esc key
+- Caps Lock key
+- LED indicators
+- USB or wireless connectivity
+- Key labels or symbols
+- Key layout (QWERTY, AZERTY, etc.)
+- Key size and shape
+- Key color or material
+- Key spacing
+- Key travel distance
+- Key switches (mechanical, membrane)
+- Palm rest
+- Multimedia keys
+- Touchpad or trackpad (if present)
+- Wrist support or ergonomic design

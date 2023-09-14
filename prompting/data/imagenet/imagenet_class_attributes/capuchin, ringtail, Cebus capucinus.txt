@@ -1,0 +1,25 @@
+- Capuchin:
+  - Small size
+  - Light-colored face with dark fur around the eyes
+  - Short, rounded ears
+  - Long, prehensile tail
+  - Agile and arboreal body structure
+
+- Ringtail:
+  - Small to medium size
+  - Grayish-brown fur
+  - Prominent black and white ringed tail
+  - Large, round eyes
+  - Pointed snout
+  - Long, slender body
+  - Agile and arboreal body structure
+
+- Cebus capucinus:
+  - Medium to large size
+  - Dark brown to black fur
+  - Light-colored face with dark fur around the eyes
+  - Long, non-prehensile tail
+  - Robust body structure
+  - Prominent brow ridge
+  - Long, strong limbs
+  - Agile and arboreal body structure

@@ -1,0 +1,94 @@
+DISCOVERIES:
+1. the temperature scale for text-text is different that image-text
+
+
+Experiment 0:
+------------
+Aim: get a baseline of vanilla CLIP 
+  classification on TinyImageNet
+
+Method: regular CLIP similarity based matching to "a photo of {c}" for c in classes
+
+Result: 58.3 % top-1 accuracy
+================================================================================================================
+
+Experiment 1:
+-------------
+Aim: see how a direct projection to all of the descriptor
+  support features does in classification on TinyImageNet
+
+Method: > get CLIP-text features of all the descriptors and put them in one big stack called the support.
+        > projected_features = (softmaxed image_fts @ support. T) @ support
+        > then use projected_features for CLIP classification
+
+Result: 11.3 % top-1 accuracy
+
+Inference: the direct projection with the support might be good for absorbing text info to get a caption
+           but it is bad for classification as a lot of classes can matching to the absorbed info 
+           of "small size", "black color", "long length". this was good in captioning as we just want the presence
+           of these texts in the feature but for classification we want skewed associations towards the target class
+
+Further aims: since there is no "skewed association" with the classes, we need to provide that.
+              further, directly using negative prompts shall also present this issue, hence we need to 
+              associate all text descriptors (both +ve and -ve) with the classes.
+
+=============================================================================================================================
+
+Experiment 2:
+-------------
+Aim: improve assocation of descriptors with relevant classes and image
+     for better top-1 accuracy
+
+Method: > for each class c_i denote the text feature of "a photo of {c_i}"
+          as Q. Also, denote the text features of the descriptors of c_i as K, and V.
+          compute (100 * Q @ K.T).softmax(dim=-1) @ V as "projected_prompts"
+        > this is done to express the prompt as a combination of the features of the 
+          descriptors. this may lead to greater semantic matching.
+
+Result: 35.50 % top-1 accuracy.
+
+Inference: > This does lead to more semantics associated with each class. However,
+             this is bad for the task of classification as we want only very discriminative semantics
+             to be expressed in the prompt which will lead to the image being matched as correctly as possible.
+           > A shortcoming is that, this utilized text-text alignment in CLIP which is not what it was trained on.
+             These experiments show that image-text alignment is the best in CLIP even if there is a modality gap b/w
+             image and text features. In essence, this experiment made the prompt less meaningful.
+           > This means that only a combination of the descriptors of a class cannot emulate the precise semantic for that class.
+
+Further aims: > Incorporate projections/attn with image-text alignment as 
+                we know that target use of projections/attention does help, 
+                as we see in the increase in accuracy. 
+
+===========================================================================================================================================
+
+-> "a photo of an acoustic guitar which has a wooden body, hollow"
+
+what if there are negative prompts which address other classes showing high confusion
+- "no electric pickups"
+- "no volume knobs"
+
+is there a mathematic way of playing with features so that
+we can achieve the same effect of adding text_1 to text_2
+
+f(X, Y) = Z s.t. text(Z) = text(X) + " and " + text(Y)
+
+or better
+
+
+idea: 
+-----
+X = feature("a photo of an acoustic guitar)
+Y = sum(features(["wooden body", "hollow"]))
+Z = feature("a photo of an acoustic guitar which has a wooden body, hollow")
+
+
+model = nn.Linear(1024, 512)
+
+inputs = torch.cat([X, Y], dim=1)
+outputs = model(inputs)
+
+loss = make_similar(outputs, Z) (can modifiy loss)
+
+--------
+benefit: get around CLIP's token limit 
+         and make EXPANSIVE COMPREHENSIONS IN CLIP INPUTS

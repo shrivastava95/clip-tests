@@ -1,0 +1,11 @@
+- Circular or rectangular shape
+- Multiple colored lights (red, yellow, green)
+- Vertical or horizontal orientation
+- Attached to a pole or suspended overhead
+- May have a pedestrian signal
+- May have a countdown timer
+- May have a camera for monitoring traffic
+- May have a reflective surface
+- May have a black frame or housing
+- May have a light sensor for automatic activation
+- May have a flashing light or arrow indicator

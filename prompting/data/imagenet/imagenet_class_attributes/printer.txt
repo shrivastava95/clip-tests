@@ -1,0 +1,27 @@
+- Paper tray
+- Control panel
+- Ink cartridges
+- Print head
+- USB or wireless connectivity
+- LCD screen
+- Power button
+- Output tray
+- Document feeder
+- Duplex printing capability
+- Print resolution options
+- Print speed
+- Scanner bed (if it's an all-in-one printer)
+- Ethernet or network port (for network printing)
+- Memory card slots (for direct printing from memory cards)
+- Touchscreen interface (if applicable)
+- Automatic document feeder (if applicable)
+- Wi-Fi Direct or Bluetooth connectivity (for wireless printing)
+- Mobile printing capabilities (e.g., AirPrint, Google Cloud Print)
+- Energy-saving features (e.g., sleep mode, auto-off)
+- Multiple paper size compatibility (e.g., letter, legal, A4)
+- Borderless printing capability
+- Print quality settings (e.g., draft, normal, high)
+- Software compatibility (e.g., Windows, macOS, Linux)
+- Printer dimensions and weight
+- Noise level during operation
+- Warranty and customer support options

@@ -1,0 +1,11 @@
+- Handle
+- Spout
+- Lid
+- Body shape
+- Material (e.g., ceramic, porcelain)
+- Size
+- Color/pattern
+- Base
+- Knob on the lid
+- Tea leaves inside
+- Steam coming out of the spout

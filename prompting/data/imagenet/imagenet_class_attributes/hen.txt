@@ -1,0 +1,14 @@
+- Feathers
+- Beak
+- Comb
+- Wattles
+- Crest
+- Earlobes
+- Eyes
+- Wings
+- Tail
+- Legs
+- Claws
+- Spur (if present)
+- Body shape
+- Coloration/pattern
