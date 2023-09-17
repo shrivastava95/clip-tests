@@ -21,10 +21,10 @@ def get_class_template_coop_extended(args, classes):
 	for class_idx in range(len(classes)):
 		attrib_count = args.n_attrib
 		while True:
-			template = 'sample' * args.n_ctx + \
+			template = 'sample ' * args.n_ctx + \
                         classes[class_idx] + \
 						', attributes: ' + \
-						', '.join(attributes[class_idx][:attrib_count])
+						', '.join(([item.strip(' \n') for item in attributes[class_idx][:attrib_count]]))
 			try:
 				clip.tokenize(template)
 				class_texts_template.append(template)

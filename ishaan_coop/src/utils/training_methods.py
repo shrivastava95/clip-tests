@@ -68,7 +68,10 @@ def coop_clip_train(args, model, loader, prompt_features, optimizer, scheduler, 
 def cocoop_clip_train(args, model, loader, prompt_features, optimizer, scheduler, criterion):
     correct, total = 0, 0
     bar = tqdm(total=len(loader))
-    class_texts_template = ['sample ' * args.n_ctx + loader.dataset.classes[class_idx] for class_idx in range(len(loader.dataset.classes))]
+    if args.prompt_method == 'basic':
+        class_texts_template = get_class_template_coop(args, loader.dataset.classes)
+    elif args.prompt_method == 'extended':
+        class_texts_template = get_class_template_coop_extended(args, loader.dataset.classes)
     for images, labels in loader:
         images = images.float().to(args.device)
         labels = labels.long().to(args.device)

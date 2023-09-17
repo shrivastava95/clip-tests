@@ -2,3 +2,4 @@ prompting/data/tinyimagenet/train*
 prompting/data/tinyimagenet/test*
 prompting/data/tinyimagenet/val*
 data/cc3m_image_labels*
+*__pycache__*

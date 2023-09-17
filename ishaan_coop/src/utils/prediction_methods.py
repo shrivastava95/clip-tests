@@ -114,38 +114,10 @@ def avg_img_token_clip_classify(args, model, loader, prompt_features):
 def coop_clip_classify(args, model, loader, prompt_features):
 	correct, total = 0, 0
 	bar = tqdm(total=len(loader))
-	class_texts_template = get_class_template_coop(args, classes)
-	for (images, labels) in loader:
-		images = images.float().to(args.device)
-		labels = labels.long().to(args.device)
-
-		with torch.no_grad():
-			# get image features
-			image_features = model.encode_image(images)
-			image_features = image_features / image_features.norm(dim=-1, keepdim=True)
-			
-			# get text features
-			class_features = model.encode_text_coop(clip.tokenize(class_texts_template).to(args.device)) # using the modded text encoder
-			class_features = class_features / class_features.norm(dim=-1, keepdim=True)
-
-			similarity = (100 * image_features @ class_features.T).softmax(dim=-1)
-			predictions = torch.argmax(similarity, dim=1)
-			correct += (predictions == labels).sum().item()
-			total += labels.shape[0]
-
-		accuracy = round(correct/total, 4)
-		bar.update(1)
-		bar.set_postfix({"accuracy": accuracy})
-
-	bar.close()
-	return accuracy
-
-
-# ishaan: coop clip classification
-def coop_extended_clip_classify(args, model, loader, prompt_features):
-	correct, total = 0, 0
-	bar = tqdm(total=len(loader))
-	class_texts_template = get_class_template_coop_extended(args, loader.dataset.classes)
+	if args.prompt_method == 'basic':
+		class_texts_template = get_class_template_coop(args, loader.dataset.classes)
+	elif args.prompt_method == 'extended':
+		class_texts_template = get_class_template_coop_extended(args, loader.dataset.classes)
 	for (images, labels) in loader:
 		images = images.float().to(args.device)
 		labels = labels.long().to(args.device)
@@ -176,7 +148,10 @@ def coop_extended_clip_classify(args, model, loader, prompt_features):
 def cocoop_clip_classify(args, model, loader, prompt_features):
 	correct, total = 0, 0
 	bar = tqdm(total=len(loader))
-	class_texts_template = get_class_template_coop(args, loader.dataset.classes)
+	if args.prompt_method == 'basic':
+		class_texts_template = get_class_template_coop(args, loader.dataset.classes)
+	elif args.prompt_method == 'extended':
+		class_texts_template = get_class_template_coop_extended(args, loader.dataset.classes)
 	for (images, labels) in loader:
 		images = images.float().to(args.device)
 		labels = labels.long().to(args.device)
